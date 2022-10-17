@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545451694655",
+    "firebase_url": "https://superpolyc-default-rtdb.firebaseio.com",
+    "project_id": "superpolyc",
+    "storage_bucket": "superpolyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545451694655:android:641fa5de78f3b3c96bf68a",
+        "android_client_info": {
+          "package_name": "com.appmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545451694655-idj7lhcr8122n0glkudcujn4gqbnpgvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsHF98HoFIOoPM2XaGBhSX1I_ZGu0dA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545451694655-idj7lhcr8122n0glkudcujn4gqbnpgvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
